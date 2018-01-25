@@ -1,0 +1,7 @@
+C:\Users\Safa\source\repos\lab5a\lab5a\bin\Debug\lab5a.exe.config
+C:\Users\Safa\source\repos\lab5a\lab5a\bin\Debug\lab5a.exe
+C:\Users\Safa\source\repos\lab5a\lab5a\bin\Debug\lab5a.pdb
+C:\Users\Safa\source\repos\lab5a\lab5a\obj\Debug\lab5a.csprojResolveAssemblyReference.cache
+C:\Users\Safa\source\repos\lab5a\lab5a\obj\Debug\lab5a.csproj.CoreCompileInputs.cache
+C:\Users\Safa\source\repos\lab5a\lab5a\obj\Debug\lab5a.exe
+C:\Users\Safa\source\repos\lab5a\lab5a\obj\Debug\lab5a.pdb
